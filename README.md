@@ -1,2 +1,2 @@
-# sandtv
+# SandTV
 Sand TV App
